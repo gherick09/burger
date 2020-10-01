@@ -1,0 +1,556 @@
+2020-08-26T00:28:09.071Z - info:   [21652] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-26T00:28:09.071Z - info:   [21652] AzureReposVSCode/1.161.0 (VSCode 1.48.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-26T00:28:09.072Z - debug:  [21652] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-26T00:28:09.072Z - debug:  [21652] No External Context at d:\reactjs\activity\burger-builder
+2020-08-26T00:28:09.079Z - debug:  [21652] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-26T00:28:09.079Z - debug:  [21652] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-26T00:28:09.080Z - debug:  [21652] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-26T00:28:09.080Z - debug:  [21652] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-26T00:28:09.081Z - debug:  [21652] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-26T00:28:09.081Z - debug:  [21652] TFVC Repository.CheckVersion
+2020-08-26T00:28:09.081Z - debug:  [21652] TFVC: tf add -noprompt -?
+2020-08-26T00:28:09.085Z - debug:  [21652] TFVC: spawned new process (duration: 3ms)
+2020-08-26T00:28:09.087Z - debug:  [21652] TFVC: spawned new process (duration: 2ms)
+2020-08-26T00:28:09.728Z - debug:  [21652] TFVC: add exit code: 0 (duration: 647ms)
+2020-08-26T00:28:09.729Z - debug:  [21652] TFVC Minimum required version: 14.102.0
+2020-08-26T00:28:09.729Z - debug:  [21652] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-26T00:28:09.729Z - debug:  [21652] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-26T00:28:09.729Z - debug:  [21652] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-26T00:28:09.731Z - debug:  [21652] TFVC: spawned new process (duration: 2ms)
+2020-08-26T00:28:09.923Z - debug:  [21652] TFVC: workfold exit code: 100 (duration: 194ms)
+2020-08-26T00:28:09.924Z - debug:  [21652] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-26T00:28:09.924Z - error:  [21652] Execution of the TFVC command line failed unexpectedly.
+2020-08-26T02:57:07.011Z - debug:  [21652] Reinitializing due to onDidChangeConfiguration
+2020-08-26T02:57:07.012Z - debug:  [21652] Polling interval value (minutes): 12
+2020-08-26T02:57:07.015Z - info:   [21652] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-26T02:57:07.015Z - info:   [21652] AzureReposVSCode/1.161.0 (VSCode 1.48.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-26T02:57:07.015Z - debug:  [21652] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-26T02:57:07.015Z - debug:  [21652] No External Context at d:\reactjs\activity\burger-builder
+2020-08-26T02:57:07.023Z - debug:  [21652] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-26T02:57:07.023Z - debug:  [21652] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-26T02:57:07.023Z - debug:  [21652] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-26T02:57:07.023Z - debug:  [21652] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-26T02:57:07.024Z - debug:  [21652] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-26T02:57:07.024Z - debug:  [21652] TFVC Repository.CheckVersion
+2020-08-26T02:57:07.025Z - debug:  [21652] TFVC: tf add -noprompt -?
+2020-08-26T02:57:07.028Z - debug:  [21652] TFVC: spawned new process (duration: 3ms)
+2020-08-26T02:57:07.109Z - debug:  [21652] TFVC: add exit code: 0 (duration: 84ms)
+2020-08-26T02:57:07.110Z - debug:  [21652] TFVC Minimum required version: 14.102.0
+2020-08-26T02:57:07.110Z - debug:  [21652] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-26T02:57:07.110Z - debug:  [21652] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-26T02:57:07.111Z - debug:  [21652] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-26T02:57:07.113Z - debug:  [21652] TFVC: spawned new process (duration: 2ms)
+2020-08-26T02:57:07.770Z - debug:  [21652] TFVC: workfold exit code: 100 (duration: 659ms)
+2020-08-26T02:57:07.772Z - debug:  [21652] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-26T02:57:07.772Z - error:  [21652] Execution of the TFVC command line failed unexpectedly.
+2020-08-26T03:06:13.713Z - debug:  [21652] Reinitializing due to onDidChangeConfiguration
+2020-08-26T03:06:13.714Z - debug:  [21652] Polling interval value (minutes): 12
+2020-08-26T03:06:13.719Z - info:   [21652] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-26T03:06:13.719Z - info:   [21652] AzureReposVSCode/1.161.0 (VSCode 1.48.1; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-26T03:06:13.719Z - debug:  [21652] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-26T03:06:13.719Z - debug:  [21652] No External Context at d:\reactjs\activity\burger-builder
+2020-08-26T03:06:13.721Z - debug:  [21652] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-26T03:06:13.721Z - debug:  [21652] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-26T03:06:13.722Z - debug:  [21652] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-26T03:06:13.722Z - debug:  [21652] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-26T03:06:13.722Z - debug:  [21652] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-26T03:06:13.723Z - debug:  [21652] TFVC Repository.CheckVersion
+2020-08-26T03:06:13.723Z - debug:  [21652] TFVC: tf add -noprompt -?
+2020-08-26T03:06:13.726Z - debug:  [21652] TFVC: spawned new process (duration: 3ms)
+2020-08-26T03:06:13.800Z - debug:  [21652] TFVC: add exit code: 0 (duration: 77ms)
+2020-08-26T03:06:13.800Z - debug:  [21652] TFVC Minimum required version: 14.102.0
+2020-08-26T03:06:13.800Z - debug:  [21652] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-26T03:06:13.800Z - debug:  [21652] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-26T03:06:13.800Z - debug:  [21652] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-26T03:06:13.804Z - debug:  [21652] TFVC: spawned new process (duration: 3ms)
+2020-08-26T03:06:14.292Z - debug:  [21652] TFVC: workfold exit code: 100 (duration: 491ms)
+2020-08-26T03:06:14.292Z - debug:  [21652] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-26T03:06:14.292Z - error:  [21652] Execution of the TFVC command line failed unexpectedly.
+2020-08-26T22:16:15.387Z - info:   [01144] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-26T22:16:15.389Z - info:   [01144] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-26T22:16:15.389Z - debug:  [01144] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-26T22:16:15.390Z - debug:  [01144] No External Context at d:\reactjs\activity\burger-builder
+2020-08-26T22:16:15.497Z - debug:  [01144] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-26T22:16:15.498Z - debug:  [01144] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-26T22:16:15.498Z - debug:  [01144] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-26T22:16:15.499Z - debug:  [01144] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-26T22:16:15.499Z - debug:  [01144] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-26T22:16:15.500Z - debug:  [01144] TFVC Repository.CheckVersion
+2020-08-26T22:16:15.501Z - debug:  [01144] TFVC: tf add -noprompt -?
+2020-08-26T22:16:15.511Z - debug:  [01144] TFVC: spawned new process (duration: 9ms)
+2020-08-26T22:16:15.518Z - debug:  [01144] TFVC: spawned new process (duration: 6ms)
+2020-08-26T22:16:16.387Z - debug:  [01144] TFVC: add exit code: 0 (duration: 885ms)
+2020-08-26T22:16:16.388Z - debug:  [01144] TFVC Minimum required version: 14.102.0
+2020-08-26T22:16:16.388Z - debug:  [01144] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-26T22:16:16.389Z - debug:  [01144] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-26T22:16:16.390Z - debug:  [01144] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-26T22:16:16.398Z - debug:  [01144] TFVC: spawned new process (duration: 8ms)
+2020-08-26T22:16:17.029Z - debug:  [01144] TFVC: workfold exit code: 100 (duration: 639ms)
+2020-08-26T22:16:17.031Z - debug:  [01144] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-26T22:16:17.032Z - error:  [01144] Execution of the TFVC command line failed unexpectedly.
+2020-08-26T23:13:05.055Z - debug:  [01144] Reinitializing due to onDidChangeConfiguration
+2020-08-26T23:13:05.057Z - debug:  [01144] Polling interval value (minutes): 12
+2020-08-26T23:13:05.061Z - info:   [01144] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-26T23:13:05.061Z - info:   [01144] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-26T23:13:05.061Z - debug:  [01144] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-26T23:13:05.062Z - debug:  [01144] No External Context at d:\reactjs\activity\burger-builder
+2020-08-26T23:13:05.067Z - debug:  [01144] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-26T23:13:05.067Z - debug:  [01144] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-26T23:13:05.069Z - debug:  [01144] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-26T23:13:05.070Z - debug:  [01144] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-26T23:13:05.073Z - debug:  [01144] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-26T23:13:05.075Z - debug:  [01144] TFVC Repository.CheckVersion
+2020-08-26T23:13:05.077Z - debug:  [01144] TFVC: tf add -noprompt -?
+2020-08-26T23:13:05.098Z - debug:  [01144] TFVC: spawned new process (duration: 20ms)
+2020-08-26T23:13:05.178Z - debug:  [01144] TFVC: add exit code: 0 (duration: 101ms)
+2020-08-26T23:13:05.178Z - debug:  [01144] TFVC Minimum required version: 14.102.0
+2020-08-26T23:13:05.178Z - debug:  [01144] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-26T23:13:05.178Z - debug:  [01144] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-26T23:13:05.178Z - debug:  [01144] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-26T23:13:05.184Z - debug:  [01144] TFVC: spawned new process (duration: 5ms)
+2020-08-26T23:13:06.615Z - debug:  [01144] TFVC: workfold exit code: 100 (duration: 1436ms)
+2020-08-26T23:13:06.616Z - debug:  [01144] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-26T23:13:06.616Z - error:  [01144] Execution of the TFVC command line failed unexpectedly.
+2020-08-27T03:34:36.669Z - info:   [11076] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-27T03:34:36.670Z - info:   [11076] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-27T03:34:36.670Z - debug:  [11076] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-27T03:34:36.671Z - debug:  [11076] No External Context at d:\reactjs\activity\burger-builder
+2020-08-27T03:34:36.674Z - debug:  [11076] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-27T03:34:36.675Z - debug:  [11076] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-27T03:34:36.676Z - debug:  [11076] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-27T03:34:36.676Z - debug:  [11076] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-27T03:34:36.677Z - debug:  [11076] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-27T03:34:36.678Z - debug:  [11076] TFVC Repository.CheckVersion
+2020-08-27T03:34:36.678Z - debug:  [11076] TFVC: tf add -noprompt -?
+2020-08-27T03:34:36.687Z - debug:  [11076] TFVC: spawned new process (duration: 9ms)
+2020-08-27T03:34:36.699Z - debug:  [11076] TFVC: spawned new process (duration: 12ms)
+2020-08-27T03:34:37.428Z - debug:  [11076] TFVC: add exit code: 0 (duration: 750ms)
+2020-08-27T03:34:37.428Z - debug:  [11076] TFVC Minimum required version: 14.102.0
+2020-08-27T03:34:37.428Z - debug:  [11076] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-27T03:34:37.429Z - debug:  [11076] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-27T03:34:37.429Z - debug:  [11076] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-27T03:34:37.439Z - debug:  [11076] TFVC: spawned new process (duration: 10ms)
+2020-08-27T03:34:37.864Z - debug:  [11076] TFVC: workfold exit code: 100 (duration: 435ms)
+2020-08-27T03:34:37.865Z - debug:  [11076] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-27T03:34:37.866Z - error:  [11076] Execution of the TFVC command line failed unexpectedly.
+2020-08-31T02:14:29.239Z - info:   [20628] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-31T02:14:29.240Z - info:   [20628] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-31T02:14:29.240Z - debug:  [20628] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-31T02:14:29.241Z - debug:  [20628] No External Context at d:\reactjs\activity\burger-builder
+2020-08-31T02:14:29.244Z - debug:  [20628] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-31T02:14:29.245Z - debug:  [20628] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-31T02:14:29.245Z - debug:  [20628] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-31T02:14:29.246Z - debug:  [20628] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-31T02:14:29.248Z - debug:  [20628] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-31T02:14:29.250Z - debug:  [20628] TFVC Repository.CheckVersion
+2020-08-31T02:14:29.251Z - debug:  [20628] TFVC: tf add -noprompt -?
+2020-08-31T02:14:29.261Z - debug:  [20628] TFVC: spawned new process (duration: 10ms)
+2020-08-31T02:14:29.266Z - debug:  [20628] TFVC: spawned new process (duration: 4ms)
+2020-08-31T02:14:30.456Z - debug:  [20628] TFVC: add exit code: 0 (duration: 1205ms)
+2020-08-31T02:14:30.457Z - debug:  [20628] TFVC Minimum required version: 14.102.0
+2020-08-31T02:14:30.457Z - debug:  [20628] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-31T02:14:30.457Z - debug:  [20628] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-31T02:14:30.457Z - debug:  [20628] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-31T02:14:30.462Z - debug:  [20628] TFVC: spawned new process (duration: 4ms)
+2020-08-31T02:14:32.043Z - debug:  [20628] TFVC: workfold exit code: 100 (duration: 1585ms)
+2020-08-31T02:14:32.044Z - debug:  [20628] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-31T02:14:32.045Z - error:  [20628] Execution of the TFVC command line failed unexpectedly.
+2020-08-31T06:23:22.684Z - debug:  [20628] Reinitializing due to onDidChangeConfiguration
+2020-08-31T06:23:22.685Z - debug:  [20628] Polling interval value (minutes): 12
+2020-08-31T06:23:22.691Z - info:   [20628] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-31T06:23:22.692Z - info:   [20628] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-31T06:23:22.692Z - debug:  [20628] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-31T06:23:22.693Z - debug:  [20628] No External Context at d:\reactjs\activity\burger-builder
+2020-08-31T06:23:22.704Z - debug:  [20628] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-31T06:23:22.705Z - debug:  [20628] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-31T06:23:22.708Z - debug:  [20628] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-31T06:23:22.708Z - debug:  [20628] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-31T06:23:22.709Z - debug:  [20628] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-31T06:23:22.710Z - debug:  [20628] TFVC Repository.CheckVersion
+2020-08-31T06:23:22.710Z - debug:  [20628] TFVC: tf add -noprompt -?
+2020-08-31T06:23:22.718Z - debug:  [20628] TFVC: spawned new process (duration: 8ms)
+2020-08-31T06:23:22.834Z - debug:  [20628] TFVC: add exit code: 0 (duration: 124ms)
+2020-08-31T06:23:22.834Z - debug:  [20628] TFVC Minimum required version: 14.102.0
+2020-08-31T06:23:22.834Z - debug:  [20628] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-31T06:23:22.834Z - debug:  [20628] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-31T06:23:22.834Z - debug:  [20628] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-31T06:23:22.837Z - debug:  [20628] TFVC: spawned new process (duration: 2ms)
+2020-08-31T06:23:23.974Z - debug:  [20628] TFVC: workfold exit code: 100 (duration: 1140ms)
+2020-08-31T06:23:23.975Z - debug:  [20628] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-31T06:23:23.975Z - error:  [20628] Execution of the TFVC command line failed unexpectedly.
+2020-08-31T12:02:22.624Z - info:   [10120] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-31T12:02:22.625Z - info:   [10120] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-31T12:02:22.625Z - debug:  [10120] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-31T12:02:22.625Z - debug:  [10120] No External Context at d:\reactjs\activity\burger-builder
+2020-08-31T12:02:22.716Z - debug:  [10120] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-31T12:02:22.716Z - debug:  [10120] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-31T12:02:22.716Z - debug:  [10120] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-31T12:02:22.717Z - debug:  [10120] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-31T12:02:22.717Z - debug:  [10120] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-31T12:02:22.717Z - debug:  [10120] TFVC Repository.CheckVersion
+2020-08-31T12:02:22.718Z - debug:  [10120] TFVC: tf add -noprompt -?
+2020-08-31T12:02:22.727Z - debug:  [10120] TFVC: spawned new process (duration: 9ms)
+2020-08-31T12:02:22.730Z - debug:  [10120] TFVC: spawned new process (duration: 2ms)
+2020-08-31T12:02:23.845Z - debug:  [10120] TFVC: add exit code: 0 (duration: 1126ms)
+2020-08-31T12:02:23.846Z - debug:  [10120] TFVC Minimum required version: 14.102.0
+2020-08-31T12:02:23.846Z - debug:  [10120] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-31T12:02:23.847Z - debug:  [10120] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-31T12:02:23.847Z - debug:  [10120] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-31T12:02:23.850Z - debug:  [10120] TFVC: spawned new process (duration: 3ms)
+2020-08-31T12:02:24.488Z - debug:  [10120] TFVC: workfold exit code: 100 (duration: 641ms)
+2020-08-31T12:02:24.488Z - debug:  [10120] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-31T12:02:24.488Z - error:  [10120] Execution of the TFVC command line failed unexpectedly.
+2020-08-31T22:27:57.304Z - info:   [01952] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-31T22:27:57.305Z - info:   [01952] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-31T22:27:57.305Z - debug:  [01952] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-31T22:27:57.306Z - debug:  [01952] No External Context at d:\reactjs\activity\burger-builder
+2020-08-31T22:27:57.308Z - debug:  [01952] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-31T22:27:57.308Z - debug:  [01952] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-31T22:27:57.308Z - debug:  [01952] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-31T22:27:57.308Z - debug:  [01952] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-31T22:27:57.310Z - debug:  [01952] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-31T22:27:57.311Z - debug:  [01952] TFVC Repository.CheckVersion
+2020-08-31T22:27:57.311Z - debug:  [01952] TFVC: tf add -noprompt -?
+2020-08-31T22:27:57.325Z - debug:  [01952] TFVC: spawned new process (duration: 13ms)
+2020-08-31T22:27:57.329Z - debug:  [01952] TFVC: spawned new process (duration: 3ms)
+2020-08-31T22:27:58.412Z - debug:  [01952] TFVC: add exit code: 0 (duration: 1101ms)
+2020-08-31T22:27:58.413Z - debug:  [01952] TFVC Minimum required version: 14.102.0
+2020-08-31T22:27:58.413Z - debug:  [01952] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-31T22:27:58.413Z - debug:  [01952] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-31T22:27:58.414Z - debug:  [01952] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-31T22:27:58.418Z - debug:  [01952] TFVC: spawned new process (duration: 4ms)
+2020-08-31T22:27:59.093Z - debug:  [01952] TFVC: workfold exit code: 100 (duration: 679ms)
+2020-08-31T22:27:59.094Z - debug:  [01952] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-31T22:27:59.094Z - error:  [01952] Execution of the TFVC command line failed unexpectedly.
+2020-08-31T22:33:24.665Z - info:   [08852] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-08-31T22:33:24.666Z - info:   [08852] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-31T22:33:24.666Z - debug:  [08852] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-08-31T22:33:24.666Z - debug:  [08852] No External Context at d:\reactjs\activity\burger-builder
+2020-08-31T22:33:24.667Z - debug:  [08852] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-08-31T22:33:24.668Z - debug:  [08852] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-31T22:33:24.668Z - debug:  [08852] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-31T22:33:24.668Z - debug:  [08852] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-31T22:33:24.669Z - debug:  [08852] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-08-31T22:33:24.669Z - debug:  [08852] TFVC Repository.CheckVersion
+2020-08-31T22:33:24.670Z - debug:  [08852] TFVC: tf add -noprompt -?
+2020-08-31T22:33:24.672Z - debug:  [08852] TFVC: spawned new process (duration: 2ms)
+2020-08-31T22:33:24.676Z - debug:  [08852] TFVC: spawned new process (duration: 2ms)
+2020-08-31T22:33:25.268Z - debug:  [08852] TFVC: add exit code: 0 (duration: 598ms)
+2020-08-31T22:33:25.268Z - debug:  [08852] TFVC Minimum required version: 14.102.0
+2020-08-31T22:33:25.268Z - debug:  [08852] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-31T22:33:25.268Z - debug:  [08852] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-08-31T22:33:25.269Z - debug:  [08852] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-08-31T22:33:25.272Z - debug:  [08852] TFVC: spawned new process (duration: 3ms)
+2020-08-31T22:33:25.663Z - debug:  [08852] TFVC: workfold exit code: 100 (duration: 394ms)
+2020-08-31T22:33:25.664Z - debug:  [08852] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-08-31T22:33:25.665Z - error:  [08852] Execution of the TFVC command line failed unexpectedly.
+2020-09-01T10:45:21.852Z - info:   [03648] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-01T10:45:21.853Z - info:   [03648] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-09-01T10:45:21.853Z - debug:  [03648] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-01T10:45:21.853Z - debug:  [03648] No External Context at d:\reactjs\activity\burger-builder
+2020-09-01T10:45:21.900Z - debug:  [03648] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-01T10:45:21.900Z - debug:  [03648] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-01T10:45:21.901Z - debug:  [03648] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-01T10:45:21.901Z - debug:  [03648] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-01T10:45:21.902Z - debug:  [03648] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-01T10:45:21.903Z - debug:  [03648] TFVC Repository.CheckVersion
+2020-09-01T10:45:21.903Z - debug:  [03648] TFVC: tf add -noprompt -?
+2020-09-01T10:45:21.912Z - debug:  [03648] TFVC: spawned new process (duration: 8ms)
+2020-09-01T10:45:21.916Z - debug:  [03648] TFVC: spawned new process (duration: 3ms)
+2020-09-01T10:45:22.672Z - debug:  [03648] TFVC: add exit code: 0 (duration: 769ms)
+2020-09-01T10:45:22.673Z - debug:  [03648] TFVC Minimum required version: 14.102.0
+2020-09-01T10:45:22.673Z - debug:  [03648] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-01T10:45:22.673Z - debug:  [03648] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-01T10:45:22.677Z - debug:  [03648] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-01T10:45:22.681Z - debug:  [03648] TFVC: spawned new process (duration: 3ms)
+2020-09-01T10:45:23.434Z - debug:  [03648] TFVC: workfold exit code: 100 (duration: 757ms)
+2020-09-01T10:45:23.435Z - debug:  [03648] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-01T10:45:23.435Z - error:  [03648] Execution of the TFVC command line failed unexpectedly.
+2020-09-01T22:22:46.070Z - info:   [14984] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-01T22:22:46.070Z - info:   [14984] AzureReposVSCode/1.161.0 (VSCode 1.48.2; Windows_NT 10.0.18362; Node 12.8.1)
+2020-09-01T22:22:46.071Z - debug:  [14984] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-01T22:22:46.071Z - debug:  [14984] No External Context at d:\reactjs\activity\burger-builder
+2020-09-01T22:22:46.194Z - debug:  [14984] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-01T22:22:46.194Z - debug:  [14984] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-01T22:22:46.194Z - debug:  [14984] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-01T22:22:46.194Z - debug:  [14984] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-01T22:22:46.194Z - debug:  [14984] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-01T22:22:46.195Z - debug:  [14984] TFVC Repository.CheckVersion
+2020-09-01T22:22:46.195Z - debug:  [14984] TFVC: tf add -noprompt -?
+2020-09-01T22:22:46.202Z - debug:  [14984] TFVC: spawned new process (duration: 7ms)
+2020-09-01T22:22:46.205Z - debug:  [14984] TFVC: spawned new process (duration: 3ms)
+2020-09-01T22:22:48.089Z - debug:  [14984] TFVC: add exit code: 0 (duration: 1893ms)
+2020-09-01T22:22:48.089Z - debug:  [14984] TFVC Minimum required version: 14.102.0
+2020-09-01T22:22:48.089Z - debug:  [14984] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-01T22:22:48.089Z - debug:  [14984] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-01T22:22:48.089Z - debug:  [14984] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-01T22:22:48.092Z - debug:  [14984] TFVC: spawned new process (duration: 3ms)
+2020-09-01T22:22:48.505Z - debug:  [14984] TFVC: workfold exit code: 100 (duration: 416ms)
+2020-09-01T22:22:48.506Z - debug:  [14984] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-01T22:22:48.506Z - error:  [14984] Execution of the TFVC command line failed unexpectedly.
+2020-09-17T01:31:46.686Z - info:   [21808] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-17T01:31:46.687Z - info:   [21808] AzureReposVSCode/1.161.0 (VSCode 1.49.0; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-17T01:31:46.687Z - debug:  [21808] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-17T01:31:46.687Z - debug:  [21808] No External Context at d:\reactjs\activity\burger-builder
+2020-09-17T01:31:46.764Z - debug:  [21808] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-17T01:31:46.764Z - debug:  [21808] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-17T01:31:46.766Z - debug:  [21808] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-17T01:31:46.767Z - debug:  [21808] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-17T01:31:46.768Z - debug:  [21808] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-17T01:31:46.769Z - debug:  [21808] TFVC Repository.CheckVersion
+2020-09-17T01:31:46.769Z - debug:  [21808] TFVC: tf add -noprompt -?
+2020-09-17T01:31:46.782Z - debug:  [21808] TFVC: spawned new process (duration: 12ms)
+2020-09-17T01:31:46.787Z - debug:  [21808] TFVC: spawned new process (duration: 4ms)
+2020-09-17T01:31:47.635Z - debug:  [21808] TFVC: add exit code: 0 (duration: 866ms)
+2020-09-17T01:31:47.636Z - debug:  [21808] TFVC Minimum required version: 14.102.0
+2020-09-17T01:31:47.636Z - debug:  [21808] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-17T01:31:47.636Z - debug:  [21808] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-17T01:31:47.637Z - debug:  [21808] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-17T01:31:47.642Z - debug:  [21808] TFVC: spawned new process (duration: 5ms)
+2020-09-17T01:31:48.245Z - debug:  [21808] TFVC: workfold exit code: 100 (duration: 608ms)
+2020-09-17T01:31:48.246Z - debug:  [21808] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-17T01:31:48.247Z - error:  [21808] Execution of the TFVC command line failed unexpectedly.
+2020-09-18T02:28:49.409Z - info:   [09144] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-18T02:28:49.409Z - info:   [09144] AzureReposVSCode/1.161.0 (VSCode 1.49.0; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-18T02:28:49.410Z - debug:  [09144] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-18T02:28:49.410Z - debug:  [09144] No External Context at d:\reactjs\activity\burger-builder
+2020-09-18T02:28:49.729Z - debug:  [09144] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-18T02:28:49.729Z - debug:  [09144] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-18T02:28:49.730Z - debug:  [09144] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-18T02:28:49.730Z - debug:  [09144] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-18T02:28:49.730Z - debug:  [09144] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-18T02:28:49.730Z - debug:  [09144] TFVC Repository.CheckVersion
+2020-09-18T02:28:49.730Z - debug:  [09144] TFVC: tf add -noprompt -?
+2020-09-18T02:28:49.740Z - debug:  [09144] TFVC: spawned new process (duration: 9ms)
+2020-09-18T02:28:49.743Z - debug:  [09144] TFVC: spawned new process (duration: 3ms)
+2020-09-18T02:28:52.020Z - debug:  [09144] TFVC: add exit code: 0 (duration: 2290ms)
+2020-09-18T02:28:52.021Z - debug:  [09144] TFVC Minimum required version: 14.102.0
+2020-09-18T02:28:52.021Z - debug:  [09144] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-18T02:28:52.021Z - debug:  [09144] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-18T02:28:52.021Z - debug:  [09144] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-18T02:28:52.026Z - debug:  [09144] TFVC: spawned new process (duration: 4ms)
+2020-09-18T02:28:52.621Z - debug:  [09144] TFVC: workfold exit code: 100 (duration: 600ms)
+2020-09-18T02:28:52.622Z - debug:  [09144] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-18T02:28:52.622Z - error:  [09144] Execution of the TFVC command line failed unexpectedly.
+2020-09-19T02:23:27.816Z - info:   [23304] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-19T02:23:27.817Z - info:   [23304] AzureReposVSCode/1.161.0 (VSCode 1.49.1; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-19T02:23:27.817Z - debug:  [23304] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-19T02:23:27.817Z - debug:  [23304] No External Context at d:\reactjs\activity\burger-builder
+2020-09-19T02:23:27.965Z - debug:  [23304] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-19T02:23:27.965Z - debug:  [23304] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-19T02:23:27.965Z - debug:  [23304] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-19T02:23:27.965Z - debug:  [23304] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-19T02:23:27.966Z - debug:  [23304] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-19T02:23:27.967Z - debug:  [23304] TFVC Repository.CheckVersion
+2020-09-19T02:23:27.967Z - debug:  [23304] TFVC: tf add -noprompt -?
+2020-09-19T02:23:27.977Z - debug:  [23304] TFVC: spawned new process (duration: 9ms)
+2020-09-19T02:23:27.983Z - debug:  [23304] TFVC: spawned new process (duration: 5ms)
+2020-09-19T02:23:29.175Z - debug:  [23304] TFVC: add exit code: 0 (duration: 1207ms)
+2020-09-19T02:23:29.176Z - debug:  [23304] TFVC Minimum required version: 14.102.0
+2020-09-19T02:23:29.176Z - debug:  [23304] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-19T02:23:29.176Z - debug:  [23304] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-19T02:23:29.177Z - debug:  [23304] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-19T02:23:29.183Z - debug:  [23304] TFVC: spawned new process (duration: 6ms)
+2020-09-19T02:23:29.709Z - debug:  [23304] TFVC: workfold exit code: 100 (duration: 532ms)
+2020-09-19T02:23:29.711Z - debug:  [23304] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-19T02:23:29.711Z - error:  [23304] Execution of the TFVC command line failed unexpectedly.
+2020-09-20T03:05:25.969Z - info:   [14816] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-20T03:05:25.970Z - info:   [14816] AzureReposVSCode/1.161.0 (VSCode 1.49.1; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-20T03:05:25.970Z - debug:  [14816] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-20T03:05:25.970Z - debug:  [14816] No External Context at d:\reactjs\activity\burger-builder
+2020-09-20T03:05:26.410Z - debug:  [14816] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-20T03:05:26.410Z - debug:  [14816] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-20T03:05:26.411Z - debug:  [14816] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-20T03:05:26.411Z - debug:  [14816] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-20T03:05:26.412Z - debug:  [14816] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-20T03:05:26.412Z - debug:  [14816] TFVC Repository.CheckVersion
+2020-09-20T03:05:26.412Z - debug:  [14816] TFVC: tf add -noprompt -?
+2020-09-20T03:05:26.419Z - debug:  [14816] TFVC: spawned new process (duration: 7ms)
+2020-09-20T03:05:26.422Z - debug:  [14816] TFVC: spawned new process (duration: 2ms)
+2020-09-20T03:05:28.879Z - debug:  [14816] TFVC: add exit code: 0 (duration: 2467ms)
+2020-09-20T03:05:28.879Z - debug:  [14816] TFVC Minimum required version: 14.102.0
+2020-09-20T03:05:28.879Z - debug:  [14816] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-20T03:05:28.879Z - debug:  [14816] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-20T03:05:28.879Z - debug:  [14816] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-20T03:05:28.882Z - debug:  [14816] TFVC: spawned new process (duration: 2ms)
+2020-09-20T03:05:29.438Z - debug:  [14816] TFVC: workfold exit code: 100 (duration: 559ms)
+2020-09-20T03:05:29.439Z - debug:  [14816] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-20T03:05:29.439Z - error:  [14816] Execution of the TFVC command line failed unexpectedly.
+2020-09-22T02:42:50.785Z - info:   [10224] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-22T02:42:50.785Z - info:   [10224] AzureReposVSCode/1.161.0 (VSCode 1.49.1; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-22T02:42:50.786Z - debug:  [10224] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-22T02:42:50.786Z - debug:  [10224] No External Context at d:\reactjs\activity\burger-builder
+2020-09-22T02:42:51.760Z - debug:  [10224] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-22T02:42:51.760Z - debug:  [10224] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-22T02:42:51.760Z - debug:  [10224] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-22T02:42:51.760Z - debug:  [10224] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-22T02:42:51.762Z - debug:  [10224] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-22T02:42:51.762Z - debug:  [10224] TFVC Repository.CheckVersion
+2020-09-22T02:42:51.763Z - debug:  [10224] TFVC: tf add -noprompt -?
+2020-09-22T02:42:51.770Z - debug:  [10224] TFVC: spawned new process (duration: 7ms)
+2020-09-22T02:42:51.772Z - debug:  [10224] TFVC: spawned new process (duration: 2ms)
+2020-09-22T02:42:54.360Z - debug:  [10224] TFVC: add exit code: 0 (duration: 2597ms)
+2020-09-22T02:42:54.360Z - debug:  [10224] TFVC Minimum required version: 14.102.0
+2020-09-22T02:42:54.360Z - debug:  [10224] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-22T02:42:54.360Z - debug:  [10224] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-22T02:42:54.360Z - debug:  [10224] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-22T02:42:54.363Z - debug:  [10224] TFVC: spawned new process (duration: 2ms)
+2020-09-22T02:42:54.894Z - debug:  [10224] TFVC: workfold exit code: 100 (duration: 533ms)
+2020-09-22T02:42:54.894Z - debug:  [10224] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-22T02:42:54.895Z - error:  [10224] Execution of the TFVC command line failed unexpectedly.
+2020-09-23T04:36:17.004Z - info:   [09808] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-23T04:36:17.005Z - info:   [09808] AzureReposVSCode/1.161.0 (VSCode 1.49.1; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-23T04:36:17.006Z - debug:  [09808] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-23T04:36:17.006Z - debug:  [09808] No External Context at d:\reactjs\activity\burger-builder
+2020-09-23T04:36:17.305Z - debug:  [09808] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-23T04:36:17.305Z - debug:  [09808] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-23T04:36:17.306Z - debug:  [09808] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-23T04:36:17.306Z - debug:  [09808] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-23T04:36:17.306Z - debug:  [09808] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-23T04:36:17.307Z - debug:  [09808] TFVC Repository.CheckVersion
+2020-09-23T04:36:17.308Z - debug:  [09808] TFVC: tf add -noprompt -?
+2020-09-23T04:36:17.321Z - debug:  [09808] TFVC: spawned new process (duration: 13ms)
+2020-09-23T04:36:17.325Z - debug:  [09808] TFVC: spawned new process (duration: 3ms)
+2020-09-23T04:36:18.900Z - debug:  [09808] TFVC: add exit code: 0 (duration: 1592ms)
+2020-09-23T04:36:18.901Z - debug:  [09808] TFVC Minimum required version: 14.102.0
+2020-09-23T04:36:18.901Z - debug:  [09808] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-23T04:36:18.901Z - debug:  [09808] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-23T04:36:18.901Z - debug:  [09808] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-23T04:36:18.907Z - debug:  [09808] TFVC: spawned new process (duration: 5ms)
+2020-09-23T04:36:19.601Z - debug:  [09808] TFVC: workfold exit code: 100 (duration: 699ms)
+2020-09-23T04:36:19.602Z - debug:  [09808] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-23T04:36:19.603Z - error:  [09808] Execution of the TFVC command line failed unexpectedly.
+2020-09-23T23:17:13.326Z - info:   [06132] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-23T23:17:13.326Z - info:   [06132] AzureReposVSCode/1.161.0 (VSCode 1.49.1; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-23T23:17:13.326Z - debug:  [06132] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-23T23:17:13.327Z - debug:  [06132] No External Context at d:\reactjs\activity\burger-builder
+2020-09-23T23:17:13.494Z - debug:  [06132] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-23T23:17:13.495Z - debug:  [06132] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-23T23:17:13.496Z - debug:  [06132] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-23T23:17:13.496Z - debug:  [06132] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-23T23:17:13.497Z - debug:  [06132] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-23T23:17:13.498Z - debug:  [06132] TFVC Repository.CheckVersion
+2020-09-23T23:17:13.498Z - debug:  [06132] TFVC: tf add -noprompt -?
+2020-09-23T23:17:13.508Z - debug:  [06132] TFVC: spawned new process (duration: 9ms)
+2020-09-23T23:17:13.513Z - debug:  [06132] TFVC: spawned new process (duration: 3ms)
+2020-09-23T23:17:14.673Z - debug:  [06132] TFVC: add exit code: 0 (duration: 1175ms)
+2020-09-23T23:17:14.673Z - debug:  [06132] TFVC Minimum required version: 14.102.0
+2020-09-23T23:17:14.674Z - debug:  [06132] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-23T23:17:14.674Z - debug:  [06132] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-23T23:17:14.674Z - debug:  [06132] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-23T23:17:14.677Z - debug:  [06132] TFVC: spawned new process (duration: 2ms)
+2020-09-23T23:17:15.132Z - debug:  [06132] TFVC: workfold exit code: 100 (duration: 458ms)
+2020-09-23T23:17:15.133Z - debug:  [06132] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-23T23:17:15.133Z - error:  [06132] Execution of the TFVC command line failed unexpectedly.
+2020-09-25T02:10:34.170Z - info:   [05628] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-25T02:10:34.171Z - info:   [05628] AzureReposVSCode/1.161.0 (VSCode 1.49.1; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-25T02:10:34.171Z - debug:  [05628] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-25T02:10:34.171Z - debug:  [05628] No External Context at d:\reactjs\activity\burger-builder
+2020-09-25T02:10:34.454Z - debug:  [05628] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-25T02:10:34.455Z - debug:  [05628] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-25T02:10:34.455Z - debug:  [05628] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-25T02:10:34.455Z - debug:  [05628] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-25T02:10:34.456Z - debug:  [05628] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-25T02:10:34.457Z - debug:  [05628] TFVC Repository.CheckVersion
+2020-09-25T02:10:34.457Z - debug:  [05628] TFVC: tf add -noprompt -?
+2020-09-25T02:10:34.470Z - debug:  [05628] TFVC: spawned new process (duration: 12ms)
+2020-09-25T02:10:34.475Z - debug:  [05628] TFVC: spawned new process (duration: 3ms)
+2020-09-25T02:10:35.189Z - debug:  [05628] TFVC: add exit code: 0 (duration: 732ms)
+2020-09-25T02:10:35.190Z - debug:  [05628] TFVC Minimum required version: 14.102.0
+2020-09-25T02:10:35.190Z - debug:  [05628] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-25T02:10:35.190Z - debug:  [05628] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-25T02:10:35.190Z - debug:  [05628] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-25T02:10:35.193Z - debug:  [05628] TFVC: spawned new process (duration: 3ms)
+2020-09-25T02:10:35.704Z - debug:  [05628] TFVC: workfold exit code: 100 (duration: 514ms)
+2020-09-25T02:10:35.705Z - debug:  [05628] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-25T02:10:35.705Z - error:  [05628] Execution of the TFVC command line failed unexpectedly.
+2020-09-25T08:26:06.228Z - info:   [16220] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-25T08:26:06.229Z - info:   [16220] AzureReposVSCode/1.161.0 (VSCode 1.49.2; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-25T08:26:06.229Z - debug:  [16220] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-25T08:26:06.229Z - debug:  [16220] No External Context at d:\reactjs\activity\burger-builder
+2020-09-25T08:26:06.247Z - debug:  [16220] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-25T08:26:06.247Z - debug:  [16220] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-25T08:26:06.248Z - debug:  [16220] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-25T08:26:06.248Z - debug:  [16220] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-25T08:26:06.248Z - debug:  [16220] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-25T08:26:06.248Z - debug:  [16220] TFVC Repository.CheckVersion
+2020-09-25T08:26:06.249Z - debug:  [16220] TFVC: tf add -noprompt -?
+2020-09-25T08:26:06.257Z - debug:  [16220] TFVC: spawned new process (duration: 8ms)
+2020-09-25T08:26:06.262Z - debug:  [16220] TFVC: spawned new process (duration: 5ms)
+2020-09-25T08:26:07.333Z - debug:  [16220] TFVC: add exit code: 0 (duration: 1084ms)
+2020-09-25T08:26:07.334Z - debug:  [16220] TFVC Minimum required version: 14.102.0
+2020-09-25T08:26:07.334Z - debug:  [16220] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-25T08:26:07.334Z - debug:  [16220] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-25T08:26:07.335Z - debug:  [16220] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-25T08:26:07.340Z - debug:  [16220] TFVC: spawned new process (duration: 4ms)
+2020-09-25T08:26:07.891Z - debug:  [16220] TFVC: workfold exit code: 100 (duration: 556ms)
+2020-09-25T08:26:07.892Z - debug:  [16220] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-25T08:26:07.893Z - error:  [16220] Execution of the TFVC command line failed unexpectedly.
+2020-09-30T02:20:55.800Z - info:   [06580] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-30T02:20:55.800Z - info:   [06580] AzureReposVSCode/1.161.0 (VSCode 1.49.2; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-30T02:20:55.801Z - debug:  [06580] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-30T02:20:55.801Z - debug:  [06580] No External Context at d:\reactjs\activity\burger-builder
+2020-09-30T02:20:55.915Z - debug:  [06580] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-30T02:20:55.915Z - debug:  [06580] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-30T02:20:55.916Z - debug:  [06580] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-30T02:20:55.916Z - debug:  [06580] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-30T02:20:55.917Z - debug:  [06580] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-30T02:20:55.918Z - debug:  [06580] TFVC Repository.CheckVersion
+2020-09-30T02:20:55.918Z - debug:  [06580] TFVC: tf add -noprompt -?
+2020-09-30T02:20:55.925Z - debug:  [06580] TFVC: spawned new process (duration: 6ms)
+2020-09-30T02:20:55.931Z - debug:  [06580] TFVC: spawned new process (duration: 5ms)
+2020-09-30T02:20:56.684Z - debug:  [06580] TFVC: add exit code: 0 (duration: 766ms)
+2020-09-30T02:20:56.685Z - debug:  [06580] TFVC Minimum required version: 14.102.0
+2020-09-30T02:20:56.685Z - debug:  [06580] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-30T02:20:56.685Z - debug:  [06580] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-30T02:20:56.686Z - debug:  [06580] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-30T02:20:56.690Z - debug:  [06580] TFVC: spawned new process (duration: 4ms)
+2020-09-30T02:20:57.208Z - debug:  [06580] TFVC: workfold exit code: 100 (duration: 522ms)
+2020-09-30T02:20:57.209Z - debug:  [06580] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-30T02:20:57.210Z - error:  [06580] Execution of the TFVC command line failed unexpectedly.
+2020-09-30T06:18:03.242Z - info:   [05660] *** FOLDER: d:\reactjs\activity\burger-builder ***
+2020-09-30T06:18:03.242Z - info:   [05660] AzureReposVSCode/1.161.0 (VSCode 1.49.2; Windows_NT 10.0.18362; Node 12.14.1)
+2020-09-30T06:18:03.242Z - debug:  [05660] Looking for an External Context at d:\reactjs\activity\burger-builder
+2020-09-30T06:18:03.243Z - debug:  [05660] No External Context at d:\reactjs\activity\burger-builder
+2020-09-30T06:18:03.245Z - debug:  [05660] Looking for TFVC repository at d:\reactjs\activity\burger-builder
+2020-09-30T06:18:03.245Z - debug:  [05660] TFVC Creating Tfvc object with localPath='undefined'
+2020-09-30T06:18:03.246Z - debug:  [05660] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-09-30T06:18:03.246Z - debug:  [05660] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-09-30T06:18:03.246Z - debug:  [05660] TFVC Repository created with repositoryRootFolder='d:\reactjs\activity\burger-builder'
+2020-09-30T06:18:03.247Z - debug:  [05660] TFVC Repository.CheckVersion
+2020-09-30T06:18:03.247Z - debug:  [05660] TFVC: tf add -noprompt -?
+2020-09-30T06:18:03.250Z - debug:  [05660] TFVC: spawned new process (duration: 3ms)
+2020-09-30T06:18:03.253Z - debug:  [05660] TFVC: spawned new process (duration: 2ms)
+2020-09-30T06:18:04.637Z - debug:  [05660] TFVC: add exit code: 0 (duration: 1390ms)
+2020-09-30T06:18:04.637Z - debug:  [05660] TFVC Minimum required version: 14.102.0
+2020-09-30T06:18:04.637Z - debug:  [05660] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-09-30T06:18:04.638Z - debug:  [05660] TFVC Repository.FindWorkspace with localPath='d:\reactjs\activity\burger-builder'
+2020-09-30T06:18:04.638Z - debug:  [05660] TFVC: tf workfold -noprompt d:\reactjs\activity\burger-builder
+2020-09-30T06:18:04.641Z - debug:  [05660] TFVC: spawned new process (duration: 3ms)
+2020-09-30T06:18:04.900Z - debug:  [05660] TFVC: workfold exit code: 100 (duration: 262ms)
+2020-09-30T06:18:04.902Z - debug:  [05660] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\activity\burger-builder.
+
+2020-09-30T06:18:04.903Z - error:  [05660] Execution of the TFVC command line failed unexpectedly.
